@@ -1,0 +1,5 @@
+# Binaries
+*.out
+
+# Editor Config files
+.vscode/
